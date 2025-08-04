@@ -24,6 +24,6 @@ Este projeto é um bot que utiliza **visão computacional** para identificar íc
 ## 📦 Instalação
 
 1. Clone o repositório:
-
+git clone https://github.com/GustavoEw/bot_farm_dlrua
 ```bash
 
